@@ -1,0 +1,333 @@
+
+  body {
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', sans-serif;
+	}
+    .col-s-6 {
+    	width: 50%;
+    }
+	.w-100 {
+		width: 100%;
+	}
+	.d-flex {
+		display: flex; 
+		flex-wrap: wrap;
+	}
+	.pl-1 {
+		padding-left: 10px;
+	}
+	.header a{
+		font-size: 70%;
+	}
+	.header {
+		background-color: grey
+	}
+	.m-auto{
+		margin:auto;
+	}
+	.menu a {
+		padding: 5px;
+		text-decoration: none;
+		color: white;
+		line-height: 50px;
+	}
+	ul li {
+		list-style: none;
+	}
+	.banner p {
+		font-weight: 100;
+	}
+	.wrap h3 {
+		font-size: 30px;
+	}
+	.content img {
+		width: 330px;
+		height: auto;
+	}
+	.content{
+		margin:20px;
+	}
+	.flex-center {
+		justify-content: center;
+	}
+	.content1 {
+		text-align: left;
+		text-decoration: none;
+	}
+	.footer h4 {
+		font-size: 30px;
+	}
+@media only screen and (min-width: 768px) {
+	body {
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', sans-serif;
+	}
+	.col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+	.w-100 {
+		width: 100%;
+	}
+	.d-flex {
+		display: flex; 
+		flex-wrap: wrap;
+	}
+	.pl-1 {
+		padding-left: 10px;
+	}
+	.header{
+		background-color: grey;
+	}
+	.header a {
+		font-size: 100%;
+	}
+	.w-66 {
+		width: 66%;
+	}
+	.w90 {
+		width: 90%;
+	}
+	.m-auto{
+		margin:auto;
+	}
+	.w80 {
+		width: 80%;
+	}
+	.menu a {
+		padding: 10px;
+		text-decoration: none;
+		color: white;
+		line-height: 50px;
+	}
+	ul li {
+		list-style: none;
+	}
+	.bg-grey {
+		left:75px;
+	}
+	.banner h1 {
+		font-size: 62px;
+	}
+	.banner p {
+		font-weight: 100;
+		font-size: 25px;
+	}
+	.banner {
+		border-bottom: 2px solid grey;
+	}
+
+	.content img {
+		width: 100%;
+		margin: 15px;
+		height: 230px;
+	}
+	.content{
+		margin:20px;
+	}
+	.content img {
+		padding-bottom: 30px;
+	}
+	.content{
+		float: left;
+		height: auto;
+	}
+	.h3-banner {
+		padding-left: 32px;
+		margin-top: 30px;
+	
+	}
+	.flex-center {
+		justify-content: center;
+	}
+	.content3 img {
+		height: auto;
+		width: 330px;
+	}
+	.content1 {
+		box-sizing: border-box;
+		text-align: left;
+		text-decoration: none;
+	}
+	.banner{
+		margin-bottom: 20px;
+		padding-left: 32px;
+	}
+	.bao {
+		width: 90%;
+		padding-bottom: 30px;
+		margin: auto;
+		flex: center;
+	}
+	.main p {
+		padding-left: 32px;margin: 0;
+	}
+	.wrap h3{
+	font-size: 62px
+	}
+	.footer h4{font-size: 62px
+	}
+	.wrap p{
+		font-size: 25px;
+	}
+	.footer p {
+		font-size: 25px;
+	}
+	.footer a{
+		font-size: 25px;
+	}
+}
+@media only screen and (min-width: 992px) {
+	body {
+		margin: 0;
+		padding: 0;
+		font-family: 'Roboto', sans-serif;
+	}
+	.w-70 {
+		width: 70%;
+	}
+	.w-100 {
+		width: 100%;
+	}
+	.d-flex {
+		display: flex; 
+		flex-wrap: wrap;
+	}
+	.pl-1 {
+		padding-left: 10px;
+	}
+	.w-80 {
+		width: 80%;
+	}
+	.w-66 {
+		width: 66%;
+	}
+	.w-33 {
+		width: 33%;
+	}
+	.w90 {
+		width: 90%;
+	}
+	.m-auto{
+		margin:auto;
+	}
+	.w-30 {
+		width: 30%;
+	}
+	.header {
+		background-color: white;
+	}
+	.menu a {
+		padding: 20px;
+		text-decoration: none;
+		color: grey;
+		font-size: 100%
+	}
+	.menu-right {
+		float: right;
+		text-align: right;
+
+	}
+	ul li {
+		list-style: none;
+	}
+	.right-list {
+		justify-content: flex-end;
+	}
+	.bg-grey {
+		background-color: rgb(192 192 192);
+		left:75px;
+		margin-top: -29px;
+	}
+	.w-30 {
+		width: 30%;
+	}
+	.bg-dark {
+		background-color: rgb(192 192 192);
+	}
+	.main h3 p {
+		position: absolute;
+	}
+	.banner h1{
+		font-size: 62px;
+	}
+	.banner p {
+		font-weight: 100;
+		font-size: 25px;
+	}
+
+	.content img {
+		width: 100%;
+		margin: 15px;
+		height: 230px;
+	}
+	.content{
+		margin:20px;
+	}
+	.content{
+		float: left;
+		height: auto;
+	}
+	.h3-banner {
+		padding-left: 32px;
+		margin-top: 30px;
+	}
+
+	.footer {
+		margin-top: -32px;
+		background-color: rgb(236 236 236);
+	}
+	.flex-center {
+		justify-content: center;
+
+	}
+	.content3 img {
+		height: 522px;
+	}
+	.content1 {
+		box-sizing: border-box;
+		text-align: left;
+		background-color: rgb(236 236 236);
+		text-decoration: none;
+	}
+
+	.banner {
+		height: 500px;
+		background-size: cover;
+		background-image: url("./image/lodging.png");
+		background-repeat: no-repeat;
+	}
+
+	.banner h1 {
+		position: absolute;
+		top: 200px;
+		left: 75px;
+		color: white;
+	}
+	.banner p {
+		left: 75px;
+		position: absolute;
+		top: 288px;
+		color: white
+	}
+    
+	.bao {
+		width: 90%;
+		padding-bottom: 30px;
+		margin: auto;
+		flex: center;
+	}
+	.main p {
+		padding-left: 32px;margin: 0;
+	}
+	.footer h4{
+		font-size: 25px;
+	}
+	.wrap h3{
+		font-size: 35px;
+	}
+	.wrap p {
+		font-size: 20px;
+	}
+}
